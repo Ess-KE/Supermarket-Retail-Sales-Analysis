@@ -55,27 +55,27 @@ Time-based performance breakdown
    *Product line revenue contribution, Gross profit comparison, and Pareto (80/20) profit analysis.*
 
 ## Key Insights
-🏪# Branch Performance
+🏪# Branch Performance:
 Giza leads in total sales and gross income.
 Higher profitability is driven by larger basket values rather than transaction count.
 Alex underperforms on value metrics, suggesting a more price-sensitive market.
 
-👥# Customer Insights
+👥# Customer Insights:
 Loyalty members spend 7–15% more per visit than normal customers.
 The revenue uplift is strongest on weekends.
 Female customers generate more revenue through both higher visit frequency and larger baskets.
 
-🕒# Time-Based Patterns
+🕒# Time-Based Patterns:
 Weekdays generate higher total revenue due to more frequent visits.
 Weekends show higher average sale per invoice (larger baskets).
 Evening sales are volume-driven (high traffic, normal basket size).
 
-📦# Product Profitability
+📦# Product Profitability:
 Profit contribution is evenly distributed across product lines.
 The dataset does not follow a classic 80/20 Pareto pattern.
 Growth requires broad-based optimization rather than focusing on one dominant category.
 
-💳# Payment Behavior
+💳# Payment Behavior:
 E-wallet dominates in transaction count.
 Cash generates the highest total sales and slightly higher basket value.
 
