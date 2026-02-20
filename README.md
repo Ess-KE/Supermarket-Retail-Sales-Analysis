@@ -47,8 +47,19 @@ Time-based performance breakdown
 *KPI cards (Total Sales, Gross Income, Avg Sale per Invoice), Branch comparison charts, Revenue vs Value analysis.*
 
 2. Customer & Time Analysis
-<a href= "https://github.com/Ess-KE/Data-Analysis-Dashboard/blob/main/Order%20performance.jpeg"> View Order Performance</a>
-*Analysis of order volume, demand patterns, and customer ordering behavior.*
+<a href= "https://github.com/Ess-KE/Supermarket-Retail-Sales-Analysis/blob/main/Customer%20behavior%20analysis.jpeg"> View Customer Behavior</a>
+*Member vs Normal uplift, Gender-based purchasing patterns, Weekday vs Weekend performance, and Time-of-day sales distribution.*
+
+
+
+
+
+
+
+
+
+
+
 
 3. Customer Spending Behavior Analysis
    <a href= "https://github.com/Ess-KE/Data-Analysis-Dashboard/blob/main/Customer%20behavior%20analysis.jpeg"> View Customer Behavior </a>
