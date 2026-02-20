@@ -43,10 +43,10 @@ Time-based performance breakdown
 
 ## Dashboard pages
 1. Branch and Profitability Overview
-<a href= "https://github.com/Ess-KE/Data-Analysis-Dashboard/blob/main/Executive%20Overview.jpeg"> View Executive Overview</a>
-*High-level view of revenue trends, top genres, artists, and countries.*
+<a href= "https://github.com/Ess-KE/Supermarket-Retail-Sales-Analysis/blob/main/Executive%20performance%20overview.jpeg"> View Executive Overview</a>
+*KPI cards (Total Sales, Gross Income, Avg Sale per Invoice), Branch comparison charts, Revenue vs Value analysis.*
 
-2. Order & Demand Analysis
+2. Customer & Time Analysis
 <a href= "https://github.com/Ess-KE/Data-Analysis-Dashboard/blob/main/Order%20performance.jpeg"> View Order Performance</a>
 *Analysis of order volume, demand patterns, and customer ordering behavior.*
 
