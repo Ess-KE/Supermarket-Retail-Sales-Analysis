@@ -1,2 +1,44 @@
 # Supermarket-Retail-Sales-Analysis
-Retail sales analysis using Excel to uncover branch performance, customer behavior, and profitability drivers with actionable business insights.
+## Project Overview
+This project analyzes supermarket transactional data to uncover key drivers of revenue, profitability, and customer behavior across branches, product lines, and customer segments.
+Using Microsoft Excel, I built a multi-sheet executive dashboard that translates raw sales data into actionable business insights for retail decision-makers.
+The focus of this project was not just visualization, but business storytelling and operational recommendations.
+
+## Business Problem
+Retail managers need to understand:
+Which branch performs best — and why?
+Are sales driven by transaction volume or basket value?
+Do loyalty members generate meaningful revenue uplift?
+When do customers spend the most?
+Which product lines drive the most profit?
+How do gender, payment method, and time-of-day influence sales?
+This analysis answers these questions using structured Excel modeling and dashboard reporting.
+
+## Dataset
+The dataset contains 3 months of supermarket transaction data, including:
+Branch
+Product line
+Customer type (Member / Normal)
+Gender
+Payment method
+Time of day
+Quantity purchased
+Unit price
+Total sales
+Gross income
+
+## Tools & Techniques Used
+Microsoft Excel
+Pivot Tables
+Calculated Fields
+KPI Cards
+SUMIFS / COUNTIFS
+Pareto Analysis
+Normalized Index Modeling
+Branch performance comparison
+Customer segmentation analysis
+Revenue driver decomposition (Price vs Quantity)
+Basket value analysis
+Time-based performance breakdown
+
+## Dashboard
