@@ -41,4 +41,15 @@ Revenue driver decomposition (Price vs Quantity)
 Basket value analysis
 Time-based performance breakdown
 
-## Dashboard
+## Dashboard pages
+1. Branch and Profitability Overview
+<a href= "https://github.com/Ess-KE/Data-Analysis-Dashboard/blob/main/Executive%20Overview.jpeg"> View Executive Overview</a>
+*High-level view of revenue trends, top genres, artists, and countries.*
+
+2. Order & Demand Analysis
+<a href= "https://github.com/Ess-KE/Data-Analysis-Dashboard/blob/main/Order%20performance.jpeg"> View Order Performance</a>
+*Analysis of order volume, demand patterns, and customer ordering behavior.*
+
+3. Customer Spending Behavior Analysis
+   <a href= "https://github.com/Ess-KE/Data-Analysis-Dashboard/blob/main/Customer%20behavior%20analysis.jpeg"> View Customer Behavior </a>
+   *Deep-dive into customer value, AOV trends, frequency, and revenue concentration.*
