@@ -50,6 +50,9 @@ Time-based performance breakdown
 <a href= "https://github.com/Ess-KE/Supermarket-Retail-Sales-Analysis/blob/main/Customer%20behavior%20analysis.jpeg"> View Customer Behavior</a>
 *Member vs Normal uplift, Gender-based purchasing patterns, Weekday vs Weekend performance, and Time-of-day sales distribution.*
 
+3. Product & Profit Analysis
+   <a href= "https://github.com/Ess-KE/Supermarket-Retail-Sales-Analysis/blob/main/Customer%20and%20product%20value%20overview.jpeg"> View Customer & Product Value Drivers</a>
+   *Product line revenue contribution, Gross profit comparison, and Pareto (80/20) profit analysis.*
 
 
 
@@ -57,10 +60,3 @@ Time-based performance breakdown
 
 
 
-
-
-
-
-3. Customer Spending Behavior Analysis
-   <a href= "https://github.com/Ess-KE/Data-Analysis-Dashboard/blob/main/Customer%20behavior%20analysis.jpeg"> View Customer Behavior </a>
-   *Deep-dive into customer value, AOV trends, frequency, and revenue concentration.*
